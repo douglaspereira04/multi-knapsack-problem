@@ -1,0 +1,5 @@
+Caminhão Furgão Caminhonete
+5 6 3
+Fogao Mesa Cadeira Televisão Fogao1 Mesa1 Cadeira1 Televisão1
+4 2 1 1 6 3 2 3
+150 200 60 300 160 210 70 310

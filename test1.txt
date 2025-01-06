@@ -1,0 +1,5 @@
+Caminhao Furgao
+10 3
+Fogao Mesa Cadeira
+8 2 3
+150 200 60
